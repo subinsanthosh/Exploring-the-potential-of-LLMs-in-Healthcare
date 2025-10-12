@@ -66,4 +66,4 @@ viz_poster/
 **Subin Santhosh (a1917668)**  
 Master of Computer Science, The University of Adelaide  
 **Project:** Exploring the Potential of LLMs in Healthcare  
-**Supervisor:** Prof. Hussain Ahmad
+**Supervisor:** Dr Hussain Ahmad
