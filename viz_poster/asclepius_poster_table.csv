@@ -1,0 +1,6 @@
+Model,ROUGE_Lsum,BERTScore_F1
+ChatDoctor,0.2711,0.2216
+GPT-4o mini,0.2604,0.1551
+Llama-3.1-8B,0.2573,0.1862
+Gemini 2.5 FlashLite,0.2389,0.2199
+Grok 3 Mini,0.1945,0.125

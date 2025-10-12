@@ -1,0 +1,6 @@
+Model,Accuracy
+Grok 3 Mini,0.833
+ChatDoctor,0.8138
+GPT-4o mini,0.7386
+Gemini 2.5 FlashLite,0.7324
+Llama-3.1-8B,0.711

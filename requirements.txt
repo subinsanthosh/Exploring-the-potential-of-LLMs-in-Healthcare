@@ -1,0 +1,9 @@
+datasets
+numpy
+nltk
+rouge-score
+bert-score
+pandas
+matplotlib
+openai
+google-generativeai

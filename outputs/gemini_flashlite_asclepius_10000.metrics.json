@@ -1,0 +1,16 @@
+{
+  "n": 10000,
+  "rouge": {
+    "rouge1": 0.3388,
+    "rouge2": 0.1406,
+    "rougeL": 0.2363,
+    "rougeLsum": 0.2389
+  },
+  "bleu": 10.8952,
+  "bertscore": {
+    "precision": 0.2095,
+    "recall": 0.2308,
+    "f1": 0.2199
+  },
+  "source_preds_file": "outputs/gemini_flashlite_asclepius_10000.jsonl"
+}
